@@ -1,0 +1,20 @@
+{
+  "extensionName": {
+    "message": "Простые заметки"
+  },
+  "extensionDescription": {
+    "message": "Простой плагин для заметок с локальным хранением"
+  },
+  "title": {
+    "message": "Мои заметки"
+  },
+  "notePlaceholder": {
+    "message": "Введите вашу заметку здесь..."
+  },
+  "addButton": {
+    "message": "Добавить заметку"
+  },
+  "deleteButton": {
+    "message": "Удалить"
+  }
+}
