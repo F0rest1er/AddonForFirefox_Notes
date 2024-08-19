@@ -16,5 +16,11 @@
   },
   "deleteButton": {
     "message": "Удалить"
+  },
+  "editButton": {
+    "message": "Редактировать"
+  },
+  "saveButton": {
+    "message": "Сохранить"
   }
 }

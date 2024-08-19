@@ -16,5 +16,11 @@
   },
   "deleteButton": {
     "message": "Delete"
+  },
+  "editButton": {
+    "message": "Edit"
+  },
+  "saveButton": {
+    "message": "Save"
   }
 }
