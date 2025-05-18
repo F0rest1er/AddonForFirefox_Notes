@@ -1,0 +1,26 @@
+{
+  "extensionName": {
+    "message": "Simple Notes"
+  },
+  "extensionDescription": {
+    "message": "A simple note-taking plugin with local storage"
+  },
+  "title": {
+    "message": "My Notes"
+  },
+  "notePlaceholder": {
+    "message": "Enter your note here..."
+  },
+  "addButton": {
+    "message": "Add Note"
+  },
+  "deleteButton": {
+    "message": "Delete"
+  },
+  "editButton": {
+    "message": "Edit"
+  },
+  "saveButton": {
+    "message": "Save"
+  }
+}
