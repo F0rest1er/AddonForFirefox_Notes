@@ -10,10 +10,17 @@
     <div id="notes-container">
       <h1></h1>
       <div id="new-note">
-        <textarea id="note-input" placeholder=""></textarea>
+        <div id="formatting-toolbar">
+          <button type="button" class="format-btn" data-command="bold" title="Bold"><b>B</b></button>
+          <button type="button" class="format-btn" data-command="italic" title="Italic"><i>I</i></button>
+          <button type="button" class="format-btn" data-command="underline" title="Underline"><u>U</u></button>
+          <button type="button" class="format-btn" data-command="strikeThrough" title="Strikethrough"><s>S</s></button>
+        </div>
+        <div id="note-input" contenteditable="true" placeholder=""></div>
         <button id="add-note"></button>
       </div>
       <ul id="notes-list"></ul>
+      <a id="support-button" href="https://dalink.to/forestier" target="_blank"></a>
     </div>
     <script src="script.js"></script>
   </body>

@@ -22,5 +22,8 @@
   },
   "saveButton": {
     "message": "Сохранить"
+  },
+  "supportButton": {
+    "message": "Поддержать"
   }
 }
